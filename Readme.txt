@@ -1,1 +1,1 @@
-Hi, I am currently taking classes for Full Stack Development with MERN from MITxPRO. I will soon be certified in this field and hope to get a career in the field. Some hobbies I have are playing games on Xbox and reading old books from the 1900s. 
+Hi, I have a certificate in Full Stack Development with MERN from MITxPRO. I hope in the near future I am able to get a career in the field. Some hobbies I have are playing games on Xbox and reading old books from the 1900s. 
